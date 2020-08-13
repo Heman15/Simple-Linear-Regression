@@ -1,2 +1,2 @@
-# plotting-technique-using-matplotlib-
-In this we are using matplotlib lib for  scatter plot 
+# simple Linear Regression using pandas, numpy and matplotlib-
+In this we are using pandas ,numpy  
